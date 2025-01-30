@@ -1,4 +1,10 @@
-# React + TypeScript + Vite
+# Portafolio Web usando React + TypeScript + Vite
+
+Portafolio Web, con los proyectos mas recientes y actualizados en los que he trabajado/colaborado como desarrollador.
+
+
+
+# Configuración ESLint
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
